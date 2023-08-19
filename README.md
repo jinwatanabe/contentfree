@@ -1,6 +1,6 @@
 # contentfree
 
-[![Crate](https://img.shields.io/crates/v/contentfree.svg)](https://crates.io/crates/contentfree)
+[![Crate](https://img.shields.io/crates/v0.1,4/contentfree.svg)](https://crates.io/crates/contentfree)
 
 このライブラリは[Contentful](https://www.contentful.com/)を rust で便利に使うために作られたものです。
 
