@@ -1,4 +1,4 @@
-# rand_simple
+# contentfree
 
 [![Crate](https://img.shields.io/crates/v/contentfree.svg)](https://crates.io/crates/contentfree)
 
