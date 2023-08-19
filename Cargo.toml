@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Jin Watanabe <jin.watanabe.6g@gmail.com>"]
 edition = "2021"
 description = "contentful client for rust"
+repository = "https://github.com/jinwatanabe/contentfree"
 license="MIT"
 
 [dependencies]
