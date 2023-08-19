@@ -1,11 +1,12 @@
 [package]
 name = "contentfree"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Jin Watanabe <jin.watanabe.6g@gmail.com>"]
 edition = "2021"
 description = "contentful client for rust"
 repository = "https://github.com/jinwatanabe/contentfree"
 license="MIT"
+readme = "README.md"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
