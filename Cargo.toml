@@ -1,6 +1,6 @@
 [package]
 name = "contentfree"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jin Watanabe <jin.watanabe.6g@gmail.com>"]
 edition = "2021"
 description = "contentful client for rust"
